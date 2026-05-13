@@ -1,31 +1,62 @@
 # Pipe Flow Pressure Loss Analysis
 
-## Engineering problem
+![Cover](cover.jpg)
 
-Airflow moving through pipes always produces pressure
-losses. These losses influence the energy consumption
-of fans and ventilation systems.
+---
 
-Understanding the flow structure inside the pipe helps
-engineers design more efficient systems.
+# Engineering problem
 
-## Analysis
+Pressure losses inside piping systems influence
+fan performance, energy consumption and system efficiency.
 
-The airflow behavior inside a circular pipe was studied
-to observe velocity distribution and pressure drop along
-the flow direction.
+Understanding airflow behavior helps optimize
+industrial ventilation and transport systems.
 
-The analysis shows how turbulence develops and how
-pressure losses appear along the pipe length.
+---
 
-## Key observations
+# Analysis overview
 
-• velocity profile development inside the pipe  
-• pressure drop along the pipe  
-• turbulence distribution  
+The airflow inside a circular pipe was analyzed
+to observe turbulence behavior, velocity distribution
+and pressure losses along the flow direction.
 
-## Engineering relevance
+---
 
-Understanding pressure losses is essential when
-designing ventilation systems, piping networks and
-industrial airflow equipment.
+# Key observations
+
+• turbulence development along the pipe  
+• pressure drop behavior  
+• velocity profile formation  
+
+---
+
+# Engineering relevance
+
+Understanding pressure losses allows engineers
+to improve airflow systems and reduce operational costs.
+
+---
+
+# Visualization
+
+## Velocity field
+
+![Velocity](images/velocity-field.jpg)
+
+---
+
+## Pressure field
+
+![Pressure](images/pressure-field.jpg)
+
+---
+
+## Streamlines
+
+![Streamlines](images/streamlines.jpg)
+
+---
+
+## Turbulence distribution
+
+![Turbulence](images/turbulence.jpg)
