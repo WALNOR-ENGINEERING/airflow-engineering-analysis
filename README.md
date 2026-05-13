@@ -1,30 +1,78 @@
 # Airflow Engineering Analysis
 
-Engineering studies focused on airflow behavior,
-pressure losses, turbulence and industrial ventilation systems.
+![Cover](cover.jpg)
 
-The goal is not only to visualize airflow,
-but to understand engineering problems
-and propose practical optimization approaches.
+Engineering studies focused on airflow behavior,
+pressure losses, turbulence and industrial airflow systems.
+
+The objective is not only to visualize airflow,
+but to understand engineering problems,
+interpret flow behavior and identify possible
+optimization opportunities.
 
 ---
 
-## Included studies
+# Engineering focus
 
-### Pipe Flow Pressure Loss
-Airflow pressure losses and turbulence behavior inside piping systems.
+• industrial airflow systems  
+• pressure loss analysis  
+• turbulence behavior  
+• airflow optimization  
+• ventilation systems  
+• vortex formation  
+• cyclone separators  
 
-### Duct Bend Flow Behavior
-Flow separation and vortex formation in duct bends.
+---
 
-### Ventilation Air Distribution
-Airflow distribution analysis inside ventilation systems.
+# Included studies
 
-### Cyclone Separator Analysis
-Swirling airflow behavior and separation efficiency.
+## Pipe Flow Pressure Loss
 
-### Industrial Airflow Optimization
-Optimization of industrial airflow systems.
+Analysis of pressure losses and turbulence behavior
+inside piping systems.
 
-### Vortex Shedding Study
-Wake flow behavior behind cylindrical obstacles.
+---
+
+## Duct Bend Flow Behavior
+
+Investigation of flow separation and vortex formation
+inside duct bends.
+
+---
+
+## Ventilation Air Distribution
+
+Analysis of airflow distribution and recirculation
+behavior inside ventilated spaces.
+
+---
+
+## Cyclone Separator Analysis
+
+Swirling airflow analysis inside industrial
+cyclone separation systems.
+
+---
+
+## Industrial Airflow Optimization
+
+Engineering optimization of airflow systems
+to reduce losses and improve flow stability.
+
+---
+
+## Vortex Shedding Study
+
+Wake flow instability and vortex formation
+behind cylindrical obstacles.
+
+---
+
+# Engineering approach
+
+These studies focus on practical engineering understanding,
+technical interpretation and optimization opportunities.
+
+The purpose is not only to produce simulation results,
+but to better understand airflow behavior
+inside engineering systems.
