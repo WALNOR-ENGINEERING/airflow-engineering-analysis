@@ -1,6 +1,6 @@
 # Vortex Shedding Study
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 ---
 
