@@ -1,6 +1,6 @@
 # Duct Bend Flow Behavior
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 ---
 
