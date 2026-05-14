@@ -1,6 +1,6 @@
 # Airflow Engineering Analysis
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 Engineering studies focused on airflow behavior,
 pressure losses, turbulence and industrial airflow systems.
