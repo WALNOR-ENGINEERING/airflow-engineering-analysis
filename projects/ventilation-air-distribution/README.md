@@ -1,6 +1,6 @@
 # Ventilation Air Distribution
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 ---
 
