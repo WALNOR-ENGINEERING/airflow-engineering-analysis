@@ -1,6 +1,6 @@
 # Industrial Airflow Optimization
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 ---
 
