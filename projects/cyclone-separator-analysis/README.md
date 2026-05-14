@@ -1,6 +1,6 @@
 # Cyclone Separator Analysis
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 ---
 
