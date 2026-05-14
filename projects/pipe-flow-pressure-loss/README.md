@@ -1,6 +1,6 @@
 # Pipe Flow Pressure Loss Analysis
 
-![Cover](cover.jpg)
+![Cover](cover.png)
 
 ---
 
